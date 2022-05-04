@@ -1,4 +1,4 @@
-## CBS Replication Package 
+## TOSEM'22 CBS
 
 ### Preparation
 - For Windows, run the following cmd to add python to sys.path and check
