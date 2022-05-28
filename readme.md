@@ -47,3 +47,14 @@ python HebCup.py ../Dataset/splitted_test_sets/lightGBM/HCUP_test<suffix>.jsonl 
 Please refer to the original repo of [HebCUP](https://github.com/Ringbo/HebCup) for detailed doc of HebCUP.
 - Evaluate the performance of CUP side  
 To do this, you can send the CUP_test\<suffix\>.jsonl to the repo of CUP to evaluate the performance of CUP side with the metrics in this repo. Please refer to the original repo of [CUP](https://github.com/Tbabm/CUP) for detailed doc of CUP.
+
+### Welcome to Cite!  
+- If you find this paper useful and would like to cite it, the following would be appropriate:
+```
+@article{yang2022significance,
+  title={On the Significance of Category Prediction for Code-Comment Synchronization},
+  author={Yang, Zhen and Keung, Jacky Wai and Yu, Xiao and Xiao, Yan and Jin, Zhi and Zhang, Jingyu},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2022},
+  publisher={ACM New York, NY}
+}
